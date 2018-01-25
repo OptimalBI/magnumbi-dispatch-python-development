@@ -1,0 +1,3 @@
+[submodule "magnumbi_depot"]
+	path = magnumbi_depot
+	url = ../magnumbi-dispatch-python-library
