@@ -1,0 +1,3 @@
+[submodule "magnumbi_depot"]
+	path = magnumbi_depot
+	url = git@bitbucket.org:optimalbi/magnumbi_dispatch_lib_python_p1400.git
