@@ -1,3 +1,0 @@
-[submodule "magnumbi_depot"]
-	path = magnumbi_depot
-	url = git@github.com:OptimalBI/magnumbi-dispatch-python-library.git
