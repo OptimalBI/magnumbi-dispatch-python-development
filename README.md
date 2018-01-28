@@ -2,6 +2,7 @@
 
 MagnumBI Dispatch manages microservice communication and interaction simply.   
 It is easy to develop and integrate with your small to medium sized development teams.
+To see more about MagnumBI Dispatch and download the server [click here](https://github.com/OptimalBI/magnumbi-dispatch-server)   
 
 This is the repository for developing the python client library.  
 If you just wish to use the client library see [this repository](https://github.com/OptimalBI/magnumbi-dispatch-python-library)
