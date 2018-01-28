@@ -1,7 +1,10 @@
-# Python - MagnumBI Dispatch Client
+# Python - MagnumBI Dispatch Client Development Repository.
 
 MagnumBI Dispatch manages microservice communication and interaction simply.   
 It is easy to develop and integrate with your small to medium sized development teams.
+
+This is the repository for developing the python client library.  
+If you just wish to use the client library see [this repository](../magnumbi-dispatch-python-library)
 
 ## Requirements
 
@@ -9,7 +12,8 @@ Python 3.3 or greater. Python 2.x not supported.
 
 ## Getting started
 
-Clone this project into a subfolder of your project. See the example below for more details.
+Clone this project and edit magnumbi_depot.DispatchClient to start.  
+ See the example below for more details.
 
 PyPI coming soon!
 
