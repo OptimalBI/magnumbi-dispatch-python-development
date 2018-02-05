@@ -3,6 +3,9 @@ import magnumbi_depot
 
 
 class MicroservicesTests(unittest.TestCase):
+    """
+    
+    """
     @classmethod
     def setUpClass(cls):
         cls.app_id = 'AUTOTEST',
